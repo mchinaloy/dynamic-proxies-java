@@ -1,3 +1,5 @@
+package infrastructure.logging;
+
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 

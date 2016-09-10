@@ -1,3 +1,9 @@
+package app;
+
+import infrastructure.logging.LoggingInvocationHandler;
+import infrastructure.logging.LoggingService;
+import infrastructure.logging.LoggingServiceImpl;
+
 import java.lang.reflect.Proxy;
 
 public class ProxyApp {
